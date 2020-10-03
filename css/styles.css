@@ -1,0 +1,197 @@
+.header {
+	border: 1px solid white;
+	border-radius: 20px;
+	color: rgb(92, 126, 238);
+	width: 98%;
+	background: white;
+	margin: 5px;
+	padding: 10px;
+	display: inline-block;
+	box-sizing: border-box;
+	box-shadow: 3 1px 0 black, 3 1px 0 black;
+}
+nav{
+	border-radius: 20px;
+	background-color: rgb(6, 6, 56);
+	width: 100%;
+	padding: 1px;
+	padding-top: 10px;
+	font-size: 10px;
+	height: 40px;
+	box-shadow: 3 1px 0 rgba(0,0,0.12), 3 1px 0 rgba(0,0,0.25);
+	margin-top: 20px;
+}
+nav a{
+	padding: 5px;
+	color: white;
+	margin-left: 5px;
+	margin: 5px;
+	text-decoration: none;
+	font-size: 15px;
+	font-family: Verdana, Geneva, Tahoma, sans-serif;
+	font-weight: 800
+}
+nav a:hover{
+	padding: 5px;
+	color: aqua;
+	margin-left: 5px;
+	margin: 5px;
+	text-decoration: none;
+	font-size: 20px;
+	font-family: Verdana, Geneva, Tahoma, sans-serif;
+	font-weight: 800
+}
+.Alamein{
+	color: rgb(6, 6, 56);
+	text-decoration: none;
+	font-size: 30px;
+	padding: 5px;
+	font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+         body{
+             background-image: url(computer.jpg);
+             background-attachment: fixed;
+          }
+          p{
+            font-size: 20px;
+            font-family: Georgia, 'Times New Roman', Times, serif;
+            color: black;
+            text-align: justify;
+         }
+         hr{
+         	border-style: none;
+         	border-top-style: dotted;
+         	border-color: grey;
+            border-width: 5px;
+            width: 5%
+         }
+         ul{
+            font-size: 20px;
+            font-family: Georgia, 'Times New Roman', Times, serif;
+            color: black;
+         }
+         li{
+            text-align: justify;
+            size: 20px;
+            font-family: Georgia, 'Times New Roman', Times, serif;
+         }
+         ol{
+            font-size: 20px;
+            font-family: Georgia, 'Times New Roman', Times, serif;
+            color: black;
+         }
+         
+         h1{
+         	color: rgb(6, 6, 56);
+            font-family: Georgia, 'Times New Roman', Times, serif;
+            margin: 20px;
+         }
+         
+         h3{
+         	color: rgb(6, 6, 56);
+            font-family: Georgia, 'Times New Roman', Times, serif;
+         }
+         td{
+            text-align: justify;
+            font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+         }
+         img{
+            border-radius: 50%;
+            margin-right: 30px;
+         }
+         div{
+            border: 1px solid black;
+            border-style: solid;
+            width: 400px;
+            text-align: center;
+            margin: 100px;
+            padding: 30px;
+            border-radius: 30px;
+            background-color: white;
+         }
+         #homepg{
+            border: 1px solid black;
+            border-style: solid;
+            width: 800px;
+            text-align: center;
+            margin: 100px;
+            margin-bottom: 2px;
+            margin-left: 200px;
+            padding: 20px;
+            padding-left: 30px;
+            border-radius: 10px;
+            background-color: white;
+    }
+         #skills{
+                 border: 1px solid black;
+                 border-style: solid;
+                 width: 800px;
+                 text-align: center;
+                 margin: 0;
+                 margin-left: 200px;
+                 padding: 20px;
+                 padding-left: 30px;
+                 border-radius: 10px;
+                 background-color: white;
+         }
+         #imoji{
+            text-align: center;
+         }
+         #my{
+            text-align: left;
+            margin-left: 20px;
+         }
+         #hbb{
+            border: 1px solid black;
+            border-radius: 40px;
+            margin: 100px;
+            margin-left: 200px;
+            padding: 50px;
+            width: 800px;
+            background-color: white; 
+         }
+            input[type=text], textarea{
+            width: 150px;
+            margin: 10px;
+            padding: 12px 20px 20px;
+            border: 1px solid blue; 
+            border-radius: 20px;
+            border-color: rgb(6, 6, 56);
+         }
+         input[type=email]{
+            width: 150px;
+            margin: 10px;
+            padding: 12px 20px 20px;
+            border: 1px solid blue; 
+            border-radius: 20px;
+            border-color: rgb(6, 6, 56);
+         }
+
+         input[type=submit]{
+            margin: 2px 4px;
+            padding: 12px 20px ;
+            border: 2px solid rgb(6, 6, 56); 
+            border-color: rgb(6, 6, 56);
+            border-radius: 20px;
+            background-color: white;
+         }
+
+         .btn:hover{
+            margin: 2px;
+            padding: 20px ;
+            border: 1px solid rgb(6, 6, 56); 
+            border-radius: 20px;
+            background-color: rgb(179, 228, 236);
+         }
+         input[type=date]{
+            width: 150px;
+            margin: 10px;
+            padding: 10px 20px 10px 20px;
+            border: 1px
+             solid blue; 
+            border-radius: 20px;
+            border-color: rgb(6, 6, 56);
+         }
+         footer{
+            color: white;
+         }
